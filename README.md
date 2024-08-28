@@ -22,3 +22,9 @@ This Power BI dashboard delivers a comprehensive overview of stocks, cryptocurre
 * Python: Utilized for scraping historical financial data from Yahoo Finance.
 * Yahoo Finance: Source of all historical data for stocks, cryptocurrencies, and ETFs.
 * DAX: Used for creating custom columns and advanced calculations.
+
+# Light & Dark Mode
+
+![Screenshot 2024-08-28 225357](https://github.com/user-attachments/assets/d6228a93-b1a0-4954-b6df-c1cb64a6b0c4)
+![Screenshot 2024-08-28 225419](https://github.com/user-attachments/assets/626b5ea7-9a28-4698-b5b9-5cb8b44f8fb7)
+
